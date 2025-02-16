@@ -1,0 +1,1 @@
+This repository contains a VBScript code example demonstrating a type mismatch error that can occur when comparing null values in conditional statements.  The bug is caused by the implicit type conversion that VBScript attempts when comparing different data types, including null.  The solution provided shows how to explicitly handle null values to prevent this error.
